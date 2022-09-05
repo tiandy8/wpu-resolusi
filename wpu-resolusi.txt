@@ -2,3 +2,4 @@ Christiandy resolusi
 - Konsisten belajar pemrograman setiap hari
 - Meraih 100 WPM secara konsisten
 - Belajar laravel sampai tuntas
+- Belajar Javascript
