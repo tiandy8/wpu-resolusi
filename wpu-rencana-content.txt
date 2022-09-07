@@ -11,5 +11,6 @@ Rencana Konten Christiandy
 - Interview
 - Vlogs
  * Python
+-react
 
 - Saya ingin streaming di twitch
