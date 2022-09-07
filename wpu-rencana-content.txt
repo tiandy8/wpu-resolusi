@@ -3,13 +3,18 @@ Rencana Konten Christiandy
 - Javascript
   * ES6
   * framework js
+  
  - Struktur Data Dasar
   >angular
   >request
 
 - PHP Frameworks
  >framework laravel
+ * Laravel
 - Interview
 - Vlogs
+ * Python
+-react
+-uwow 
 
 - Saya ingin streaming di twitch
