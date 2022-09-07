@@ -4,8 +4,11 @@ Rencana Konten Christiandy
   * ES6
   * framework js
  - Struktur Data Dasar
+  >angular
+  >request
 
 - PHP Frameworks
+ >framework laravel
 - Interview
 - Vlogs
 
