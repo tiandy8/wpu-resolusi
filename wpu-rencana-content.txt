@@ -5,8 +5,11 @@ Rencana Konten Christiandy
   * framework js
   
  - Struktur Data Dasar
+  >angular
+  >request
 
 - PHP Frameworks
+ >framework laravel
  * Laravel
 - Interview
 - Vlogs
