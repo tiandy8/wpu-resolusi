@@ -3,6 +3,8 @@ Rencana Konten Christiandy
 - Javascript
   * ES6
   * framework js
+ - Struktur Data Dasar
+
 - PHP Frameworks
 - Interview
 - Vlogs
